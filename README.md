@@ -8,5 +8,5 @@ Simple requests based manhwa scraper which uses the [Lezhin](https://lezhinus.co
 
 ________________
 
-yk what they say, "this was made for educational purposes only" 🤓🤓 
+yk what they say, "this was made for educational purposes only" 🤓🤓 <br>
 yeah well same applies here, no copyright infringement intended.
