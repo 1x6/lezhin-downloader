@@ -26,7 +26,7 @@ headers = {
     'X-LZ-Country': 'gb',
     'Authorization': 'Bearer 1d4691ef-3c47-48fd-979d-b5e1b3121365', # change me!! this is prob dead
     'Connection': 'keep-alive',
-    'Referer': 'https://www.lezhinus.com/en/comic/{FRIENDLY_NAME}/1',
+    'Referer': f'https://www.lezhinus.com/en/comic/{FRIENDLY_NAME}/1',
     'Sec-Fetch-Dest': 'empty',
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-origin',
