@@ -1,7 +1,7 @@
-# Lezhin Ripper
+# Lezhin Ripper 📚
 Simple requests based manhwa scraper which uses the Lezhin API.
 
-## Installation 🕸️
+## Installation ✨
 - Install the requirements
 - Edit config in `scrape.py`
 - Insert your session cookies + bearer token
